@@ -23,5 +23,6 @@ jobs:
       
       - name: Check Format
         run: |
+          prettier -w "./**/*.{js,css,json,scss}"
           npm run check-format
 
