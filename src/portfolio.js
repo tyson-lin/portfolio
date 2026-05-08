@@ -125,7 +125,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Univerisity of Michigan",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/umichLogo.png"),
       subHeader: "Bachelor of Science in Engineering, Computer Engineering",
       duration: "August 2021 - December 2024",
       desc: "GPA: 3.95 / 4.00, Summa Cum Laude",
