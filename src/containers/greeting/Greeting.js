@@ -57,7 +57,7 @@ export default function Greeting() {
               <DisplayLottie animationData={landingPerson} />
             ) : (
               <img
-                alt="man sitting on table"
+                alt="headshot"
                 src={require("../../assets/images/Headshot.jpg")}
               ></img>
             )}
