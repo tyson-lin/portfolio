@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Tyson Lin",
-  title: "Hi all, I'm Tyson",
+  title: "Hi, I'm Tyson",
   subTitle: "A University of Michigan Computer Engineering graduate looking to build a career in embedded systems and software engineering",
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
