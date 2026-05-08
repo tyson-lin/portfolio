@@ -47,15 +47,12 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "Embedded system engineer who loves learning, especially in new contexts!",
   skills: [
-    emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+    "Firmware development in C and C++ for STM32s and ESP32s",
+    "Extensive PCB experience: layout and schematic design, part sourcing, debugging, and SMT + BGA soldering",
+    "Manufacturing experience: 3D printing (both FDM and SLA), wireharnessing",
+    "Data analysis pipeline development in MATLAB"
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
