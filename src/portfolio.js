@@ -356,8 +356,7 @@ const resumeSection = {
 
 const contactInfo = {
   title: "Contact Me",
-  subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
+  subtitle: "",
   number: "+1 808-228-2787",
   email_address: "tysonlin@umich.edu"
 };
