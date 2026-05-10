@@ -201,30 +201,17 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
+      projectName: "Marine Mammal Biologging Tags",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
-        }
-        //  you can add extra buttons here.
-      ]
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
+      projectName: "Quadcopter Payload Management",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://nextu.se/"
-        }
-      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -379,16 +366,16 @@ export {
   splashScreen,
   skillsSection,
   educationInfo,
-  techStack,
+//  techStack,
   workExperiences,
-  openSource,
+//  openSource,
   bigProjects,
-  achievementSection,
-  blogSection,
-  talkSection,
-  podcastSection,
-  contactInfo,
-  twitterDetails,
+//  achievementSection,
+//  blogSection,
+//  talkSection,
+//  podcastSection,
+//  contactInfo,
+//  twitterDetails,
   isHireable,
-  resumeSection
+//  resumeSection
 };
