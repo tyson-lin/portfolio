@@ -161,10 +161,13 @@ const workExperiences = {
   experience: [
     {
       role: "Research Assistant",
-      company: "Embedded Systems for Tracking and Autonomous Robotics (ESTAR) Lab",
+      company: "ESTAR Lab",
       companylogo: require("./assets/images/mtag_full.png"),
       date: "August 2023 - June 2025",
-      desc: "End-to-end development of marine mammal bio-logging tags",
+      desc: "Embedded Systems for Tracking and Autonomous Robotics Lab",
+      descBullets: [
+        "End-to-end development of marine mammal bio-logging tags"
+      ]
     },
     {
       role: "Systems Integration Intern",
@@ -175,10 +178,13 @@ const workExperiences = {
     },
     {
       role: "Undergraduate Research Assistant",
-      company: "Biologically Inspired Robotics and Dynamical Systems (BIRDS) Lab",
+      company: "BIRDS Lab",
       companylogo: require("./assets/images/birds_quadcopter.png"),
       date: "Janurary 2022 - December 2023",
-      desc: "Quadcopter driver development. Also a large amount of 3D printing."
+      desc: "Biologically Inspired Robotics and Dynamical Systems Lab",
+      descBullets: [
+        "Quadcopter driver development. Also a large amount of 3D printing."
+      ]
     }
   ]
 };
