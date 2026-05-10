@@ -162,7 +162,7 @@ const workExperiences = {
     {
       role: "Research Assistant",
       company: "Embedded Systems for Tracking and Autonomous Robotics (ESTAR) Lab",
-      companylogo: require("./assets/images/mtag_full.jpg"),
+      companylogo: require("./assets/images/mtag_full.png"),
       date: "August 2023 - June 2025",
       desc: "End-to-end development of marine mammal bio-logging tags",
     },
