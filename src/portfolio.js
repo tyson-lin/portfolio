@@ -162,27 +162,23 @@ const workExperiences = {
     {
       role: "Research Assistant",
       company: "Embedded Systems for Tracking and Autonomous Robotics (ESTAR) Lab",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/mtag_full.JPG"),
       date: "August 2023 - June 2025",
       desc: "Development of marine mammal bio-logging tags",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
     },
     {
       role: "Systems Integration Intern",
       company: "Vayu Aerospace",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/vayu_aerospace_logo.jpeg"),
       date: "January 2023 - August 2023",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Firmware development and integration of a peripheral board that manages payloads mounted on an octorotor."
     },
     {
       role: "Undergraduate Research Assistant",
       company: "Biologically Inspired Robotics and Dynamical Systems (BIRDS) Lab",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/birds_quadcopter.png"),
       date: "Janurary 2022 - December 2023",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Used ESP-IDF to write peripheral drivers for a quadcopter. I also did a large amount of 3D printing to design the chassis and help out with other lab projects."
     }
   ]
 };
