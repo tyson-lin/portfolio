@@ -162,9 +162,9 @@ const workExperiences = {
     {
       role: "Research Assistant",
       company: "Embedded Systems for Tracking and Autonomous Robotics (ESTAR) Lab",
-      companylogo: require("./assets/images/mtag_full.JPG"),
+      companylogo: require("./assets/images/mtag_full.jpg"),
       date: "August 2023 - June 2025",
-      desc: "Development of marine mammal bio-logging tags",
+      desc: "End-to-end development of marine mammal bio-logging tags",
     },
     {
       role: "Systems Integration Intern",
@@ -178,7 +178,7 @@ const workExperiences = {
       company: "Biologically Inspired Robotics and Dynamical Systems (BIRDS) Lab",
       companylogo: require("./assets/images/birds_quadcopter.png"),
       date: "Janurary 2022 - December 2023",
-      desc: "Used ESP-IDF to write peripheral drivers for a quadcopter. I also did a large amount of 3D printing to design the chassis and help out with other lab projects."
+      desc: "Quadcopter driver development. Also a large amount of 3D printing."
     }
   ]
 };
