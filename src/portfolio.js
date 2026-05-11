@@ -60,15 +60,15 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
+      skillName: "C/C++",
       fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
+      skillName: "ESP-IDF",
+      fontAwesomeClassname: "fab fa-microchip"
     },
     {
-      skillName: "sass",
+      skillName: "STM-HAL",
       fontAwesomeClassname: "fab fa-sass"
     },
     {
@@ -76,40 +76,28 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs",
+      skillName: "MATLAB",
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "nodejs",
+      skillName: "C#/.NET",
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-swift"
     },
     {
-      skillName: "npm",
+      skillName: "HTML",
       fontAwesomeClassname: "fab fa-npm"
     },
     {
-      skillName: "sql-database",
+      skillName: "KiCad",
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "aws",
+      skillName: "FreeRTOS",
       fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
     }
   ],
   display: true // Set false to hide this section, defaults to true
