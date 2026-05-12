@@ -52,6 +52,15 @@ export default function StartupProject() {
                       ></img>
                     </div>
                   ) : null}
+                  {project.image ? (
+                    <div className="project-image">
+                      <img
+                        src={project.image}
+                        alt={project.projectName}
+                        className="card-image"
+                      ></img>
+                    </div>
+                  ) : null}
                   <div className="project-detail">
                     <h5
                       className={isDark ? "dark-mode card-title" : "card-title"}

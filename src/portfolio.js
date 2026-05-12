@@ -49,8 +49,8 @@ const skillsSection = {
   title: "What I do",
   subTitle: "Embedded system engineer who loves learning, especially in new contexts!",
   skills: [
-    "Firmware development in C and C++ for STM32s and ESP32s",
-    "Extensive PCB experience: layout and schematic design, part sourcing, debugging, and SMT + BGA soldering",
+    "Software development: C and C++ for STM32s and ESP32s",
+    "PCB experience: layout and schematic design, part sourcing, debugging, and SMT + BGA soldering",
     "Manufacturing experience: 3D printing (both FDM and SLA), wireharnessing",
     "Data analysis pipeline development in MATLAB"
   ],
@@ -192,7 +192,7 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
+  title: "Projects",
   subtitle: "",
   projects: [
     {
