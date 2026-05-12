@@ -61,7 +61,7 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: "C/C++",
-      fontAwesomeClassname: "fab fa-html5"
+      fontAwesomeClassname: "fa-solid fa-c"
     },
     {
       skillName: "ESP-IDF",
@@ -69,7 +69,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "STM-HAL",
-      fontAwesomeClassname: "fab fa-sass"
+      fontAwesomeClassname: "fa-solid fa-microchip"
     },
     {
       skillName: "JavaScript",
@@ -77,27 +77,31 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "MATLAB",
-      fontAwesomeClassname: "fab fa-react"
+      fontAwesomeClassname: "fa-solid fa-m"
     },
     {
       skillName: "C#/.NET",
-      fontAwesomeClassname: "fab fa-node"
+      fontAwesomeClassname: "fab fa-code"
     },
     {
       skillName: "Python",
-      fontAwesomeClassname: "fab fa-swift"
+      fontAwesomeClassname: "fa-brands fa-python"
     },
     {
       skillName: "HTML",
-      fontAwesomeClassname: "fab fa-npm"
+      fontAwesomeClassname: "fa-brands fa-html5"
     },
     {
       skillName: "KiCad",
-      fontAwesomeClassname: "fas fa-database"
+      fontAwesomeClassname: "fa-solid fa-computer"
     },
     {
       skillName: "FreeRTOS",
-      fontAwesomeClassname: "fab fa-aws"
+      fontAwesomeClassname: "fab fa-code"
+    },
+    {
+      skillName: "Git",
+      fontAwesomeClassname: "fa-brands fa-github"
     }
   ],
   display: true // Set false to hide this section, defaults to true
