@@ -196,12 +196,14 @@ const bigProjects = {
   subtitle: "",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image1: require("./assets/images/saayaHealthLogo.webp"),
+      image2: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "Marine Mammal Biologging Tags",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image1: require("./assets/images/octorotor.png"),
+      image2: require("./assets/images/octorotor_pcb.png"),
       projectName: "Quadcopter Payload Management",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     }
