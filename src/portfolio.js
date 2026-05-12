@@ -81,7 +81,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "C#/.NET",
-      fontAwesomeClassname: "fab fa-code"
+      fontAwesomeClassname: "fa-solid fa-code"
     },
     {
       skillName: "Python",
@@ -97,7 +97,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "FreeRTOS",
-      fontAwesomeClassname: "fab fa-code"
+      fontAwesomeClassname: "fa-solid fa-code"
     },
     {
       skillName: "Git",
