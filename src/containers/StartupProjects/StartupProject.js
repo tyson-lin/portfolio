@@ -50,8 +50,6 @@ export default function StartupProject() {
                         alt={project.projectName}
                         className="card-image"
                       ></img>
-                    </div>
-                    <div className="project-image">
                       <img
                         src={project.image}
                         alt={project.projectName}
