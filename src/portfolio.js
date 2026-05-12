@@ -196,8 +196,8 @@ const bigProjects = {
   subtitle: "",
   projects: [
     {
-      image1: require("./assets/images/saayaHealthLogo.webp"),
-      image2: require("./assets/images/saayaHealthLogo.webp"),
+      image1: require("./assets/images/mtag_boards.png"),
+      image2: require("./assets/images/mtag_partial.png"),
       projectName: "Marine Mammal Biologging Tags",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     },
