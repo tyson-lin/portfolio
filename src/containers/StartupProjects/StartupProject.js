@@ -51,8 +51,6 @@ export default function StartupProject() {
                         className="card-image"
                       ></img>
                     </div>
-                  ) : null}
-                  {project.image ? (
                     <div className="project-image">
                       <img
                         src={project.image}
