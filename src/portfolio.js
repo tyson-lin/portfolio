@@ -65,7 +65,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "ESP-IDF",
-      fontAwesomeClassname: "fa fa-microchip"
+      fontAwesomeClassname: "fa-solid fa-microchip"
     },
     {
       skillName: "STM-HAL",
